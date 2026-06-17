@@ -1,0 +1,30 @@
+body{
+    background: limegreen;
+    text-align:center;
+    font-family:Arial;
+}
+
+h1{
+    width:80%;
+    margin:auto;
+    color:skyblue;
+    background:#222;
+    border-radius:20px;
+    border:2px solid black;
+}
+
+.box{
+    width:700px;
+    height:100px;
+    background:white;
+    margin:30px auto;
+    border-radius:40px;
+    font-size:35px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.apple{
+    background:orange;
+}
